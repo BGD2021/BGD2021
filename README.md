@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BGD
-- 🌱 I’m currently learning STM32 ESP32 Vue Qt
+- 🌱 I’m currently learning LVGL Pytorch C++ 
 - 💞️ I’m looking to collaborate on Master of Embedded
 - 📫 How to reach me QQ、blog
 
